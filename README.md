@@ -16,9 +16,9 @@
 <hr>
 
 <pre>
-  ⛈︎
-🏴Contenido Hacking
-🏳️SIEM
+ Conteúdo de Hacking Etico
+🏴Black Hat
+🏳️Withe Hat
 😃 I look forward to collaborate on impactful projects
 </pre>
 <hr>
