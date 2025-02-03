@@ -23,8 +23,8 @@ Conteúdo direcionado a pessoas com conhecimento prévio em segurança cibernét
 Informações sobre hackerséticos e práticas antiéticas serão compartilhadas com foco
 educacional e técnico
 📕Red Hat
-🎩Black Hat
 🏳️Withe Hat
+ Prox..🎩?
  </pre>
  <span>
   <img src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white">
