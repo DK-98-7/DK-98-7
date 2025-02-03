@@ -19,11 +19,12 @@
 <hr>
 
 <pre>
- 
- Conteúdo de Hacking Etico
-🏴Black Hat
+ Conteúdo direcionado a pessoas com conhecimento prévio em segurança cibernética.
+ Informações sobre hackerséticos e práticas antiéticas serão compartilhadas com foco
+ educacional e técnico
+📕Red Hat
+🎩Black Hat
 🏳️Withe Hat
-😃 I look forward to collaborate on impactful projects
  </pre>
  <span>
   <img src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white">
