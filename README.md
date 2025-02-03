@@ -19,9 +19,9 @@
 <hr>
 
 <pre>
- Conteúdo direcionado a pessoas com conhecimento prévio em segurança cibernética.
- Informações sobre hackerséticos e práticas antiéticas serão compartilhadas com foco
- educacional e técnico
+Conteúdo direcionado a pessoas com conhecimento prévio em segurança cibernética.
+Informações sobre hackerséticos e práticas antiéticas serão compartilhadas com foco
+educacional e técnico
 📕Red Hat
 🎩Black Hat
 🏳️Withe Hat
